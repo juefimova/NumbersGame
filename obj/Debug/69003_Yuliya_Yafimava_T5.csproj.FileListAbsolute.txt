@@ -1,0 +1,12 @@
+D:\Database\69003_Yuliya_Yafimava_T5\bin\Debug\69003_Yuliya_Yafimava_T5.exe.config
+D:\Database\69003_Yuliya_Yafimava_T5\bin\Debug\69003_Yuliya_Yafimava_T5.exe
+D:\Database\69003_Yuliya_Yafimava_T5\bin\Debug\69003_Yuliya_Yafimava_T5.pdb
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.csproj.AssemblyReference.cache
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.csproj.SuggestedBindingRedirects.cache
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\_69003_Yuliya_Yafimava_T5.Form1.resources
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\_69003_Yuliya_Yafimava_T5.Properties.Resources.resources
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.csproj.GenerateResource.cache
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.csproj.CoreCompileInputs.cache
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.exe
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\69003_Yuliya_Yafimava_T5.pdb
+D:\Database\69003_Yuliya_Yafimava_T5\obj\Debug\_69003_Yuliya_Yafimava_T5.Form2.resources
